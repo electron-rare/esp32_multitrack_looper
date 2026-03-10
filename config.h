@@ -64,7 +64,7 @@
 #define MIDI_RECV_FROM_SERIAL
 
 /* use this to display a scope on the oled display */
-//#define OLED_OSC_DISP_ENABLED
+#define OLED_OSC_DISP_ENABLED
 
 #define AUDIO_KIT_BUTTON_ANALOG
 
